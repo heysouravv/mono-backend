@@ -13,6 +13,15 @@ Features
     4. Google
         - https://pypi.org/project/google-search-scraper-python/
         - https://serpapi.com/blog/scrape-google-product-page-with-python/
+    5. Instagram
+        - Influencers
+            - Total Per Person / per post ✅
+            - Likes Categorization [**] 💡
+            - Comments per post [Numeber / Seg] ✅
+            - Hastags [ DML ] ✅
+            - Followers list [ SORTING ] 💡
+            - Sorting 💡
+
 
 ## InLine Description
 
